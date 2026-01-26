@@ -127,5 +127,3 @@ GraphRAG-Project/
 ```
 
 ---
-
-If you'd like, I can run a quick Markdown preview or linter to validate the rendering.
