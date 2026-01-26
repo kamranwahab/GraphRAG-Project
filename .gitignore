@@ -1,0 +1,41 @@
+# --- Virtual Environments (Ignore all versions) ---
+.venv/
+venv/
+env/
+
+# --- Accidental Root Venv Files (Cleanup) ---
+# These folders (bin, include, lib) appear to be sitting 
+# in your root folder by mistake. We ignore them to prevent upload.
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
+share/
+
+# --- Python Internals ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Data & Large Binary Files ---
+# Keep the 'data' folder structure, but ignore the actual files
+data/*.pdf
+data/raw/*
+data/processed/*
+
+# Ignore the heavy pickle and index files at root
+*.pkl
+*.index
+*.faiss
+
+# --- Environment Variables (Security) ---
+.env
+
+# --- IDE & System Files ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Temporary Scripts ---
+get-pip.py

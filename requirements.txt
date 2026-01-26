@@ -1,0 +1,16 @@
+requirements.txt:
+
+fastapi
+uvicorn
+pydantic-settings
+python-multipart
+networkx
+pypdf
+sentence-transformers
+faiss-cpu
+openai
+streamlit
+httpx
+
+
+...
