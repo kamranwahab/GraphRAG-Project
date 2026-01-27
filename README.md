@@ -4,7 +4,7 @@ A production-grade RAG system designed for **University Prospectus Analysis** (U
 
 ## 🚀 Key Features
 
-- **Hybrid Retrieval:** Merges structured data (graph) with unstructured text (vector) to reduce hallucinations.
+- **Hybrid Retrieval:** Merges structured data (graph) with unstructured text (vector) to reduce hallucination.
 - **Dual-Search Strategy:**
     - *Precision Mode:* Extracts specific degrees (e.g., "M.Sc. AI") and filters contexts aggressively.
     - *Recall Mode:* Cleans conversational noise (e.g., "I live near UET") for broad queries.
