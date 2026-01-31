@@ -119,7 +119,7 @@ GraphRAG-Project/
 ├── docs/
 │   └── images/                # Architecture diagrams
 ├── notebooks/
-│   └── Experiment.ipynb       # Research / experiments
+│   └── qwen_inference.ipynb   # Research / experiments
 ├── data/                      # PDF storage and indexes
 ├── .gitignore                 # Files to exclude from Git
 ├── requirements.txt           # Python dependencies
@@ -127,3 +127,11 @@ GraphRAG-Project/
 ```
 
 ---
+
+## Project Members and Their Roles
+
+```
+1. Ishaque Rafique [2025(S)-MS-AI-05] (Project Manager + Did Documentation)
+2. M. Ali Hassan [2024-MSAIE-13] (Frontend, Make Sreamlit Web Page)
+3. Kamran Wahab [2025(S)-MS-AI-03] (Project Design, Backend, API Integration)
+4. M. Haroon [2025(S)-MS-AI-04] (Tester, Write Test Cases)
