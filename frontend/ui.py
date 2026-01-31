@@ -141,3 +141,4 @@ if prompt:
             f"<div class='chat-bubble assistant-bubble'>{reply}</div>",
             unsafe_allow_html=True
         )
+
